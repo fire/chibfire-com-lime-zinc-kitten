@@ -11,3 +11,7 @@ mix new lime_zinc_kitten
 ```
 
 torchx and mix on windows 11
+
+## References
+
+https://github.com/elixir-nx/nx
